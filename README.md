@@ -5,6 +5,8 @@ Colaborador 1: Raul Carvalho
 
 Colaborador 2: Giordano Hübner Casaril
 
-Rafael Black Lipp João
+Colaborador 3: Rafael Black Lipp João
 
 Problema Beecrowd 1828 - Bazinga!
+
+Link: https://www.beecrowd.com.br/judge/en/problems/view/1828

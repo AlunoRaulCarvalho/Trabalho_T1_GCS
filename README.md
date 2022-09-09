@@ -9,4 +9,6 @@ Colaborador 3: Rafael Black Lipp João
 
 Problema Beecrowd 1828 - Bazinga!
 
+ENUNCIADO DO BEECROWD
+
 Link: https://www.beecrowd.com.br/judge/en/problems/view/1828

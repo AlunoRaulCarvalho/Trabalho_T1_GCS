@@ -11,4 +11,7 @@ Problema Beecrowd 1828 - Bazinga!
 
 ENUNCIADO DO BEECROWD
 
+EDITA PARA GERAR ALTERAÇÃO
+
+
 Link: https://www.beecrowd.com.br/judge/en/problems/view/1828
